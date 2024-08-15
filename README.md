@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bruno Marques</h1>
-<h3 align="center">A passionate back and frontend developer</h3>
 
 - 🌱 I’m currently learning **Javascript, ReactNative, and more**
 
