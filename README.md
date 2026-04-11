@@ -73,7 +73,7 @@ A developer passionate about building elegant and efficient solutions. Focused o
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Connect
 
 <div align="center">
-  <a href="www.linkedin.com/in/bruno-hmarques42" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-hmarques42/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-5E3023?style=for-the-badge&logo=linkedin&logoColor=F3E9DC" alt="LinkedIn" />
   </a>
   <a href="mailto:bruno.hm290@gmail.com" target="_blank">
