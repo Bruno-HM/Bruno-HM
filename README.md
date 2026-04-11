@@ -55,7 +55,7 @@ A developer passionate about building elegant and efficient solutions. Focused o
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **MooreFinance** | Financial management system focused on security and data versioning. | `Completed` |
-| **Solvi** | Scalable backend infrastructure for user authentication and management. | `In Production` |
+| **Solvi** | A solution for the self-employed workers | `In Production` |
 | **JusControl** | Legal process and financial management platform. | `Evolving` |
 | **TotalDoce** | Institutional website for an inverted sugar company. | `Completed` |
 
