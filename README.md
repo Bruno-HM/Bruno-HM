@@ -15,7 +15,7 @@
 
 A developer passionate about building elegant and efficient solutions. Focused on modern technologies and scalable architectures, I always strive to deliver maximum value through clean code and intuitive design. Currently specialized in the JavaScript/TypeScript ecosystem and robust backend development.
 
-- 🛠️ **Current Focus:** React.
+- 🛠️ **Current Focus:** Solvi, JusControl.
 - 🇧🇷 **Location:** Brazil.
 
 ---
@@ -64,8 +64,8 @@ A developer passionate about building elegant and efficient solutions. Focused o
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bruno-HM&show_icons=true&hide_border=true&bg_color=F3E9DC&title_color=5E3023&text_color=895737&icon_color=C08552" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-HM&layout=compact&hide_border=true&bg_color=F3E9DC&title_color=5E3023&text_color=895737&icon_color=C08552" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bruno-HM&show_icons=true&hide_border=true&bg_color=F3E9DC&title_color=5E3023&text_color=895737&icon_color=C08552" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bruno-HM&layout=compact&hide_border=true&bg_color=F3E9DC&title_color=5E3023&text_color=895737&icon_color=C08552" alt="Top Languages" height="180" />
 </div>
 
 ---
