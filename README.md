@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> Hi, I'm Bruno!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" /> Hi, I'm Bruno!
 
 <div align="center">
   <img src="assets/cappuccino.gif" width="100%" style="border-radius: 10px;" alt="Bruno HM Banner" />
@@ -11,7 +11,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" /> About Me
 
 A developer passionate about building elegant and efficient solutions. Focused on modern technologies and scalable architectures, I always strive to deliver maximum value through clean code and intuitive design. Currently specialized in the JavaScript/TypeScript ecosystem and robust backend development.
 
@@ -70,7 +70,7 @@ A developer passionate about building elegant and efficient solutions. Focused o
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Handshake.png" alt="Handshake" width="30" /> Connect
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bruno-marques-8901b2263/" target="_blank">
