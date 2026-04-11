@@ -84,6 +84,6 @@ A developer passionate about building elegant and efficient solutions. Focused o
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="20" /> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" /> 
   Made with dedication and coffee by Bruno Marques
 </p>
