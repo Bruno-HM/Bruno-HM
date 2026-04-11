@@ -15,8 +15,7 @@
 
 A developer passionate about building elegant and efficient solutions. Focused on modern technologies and scalable architectures, I always strive to deliver maximum value through clean code and intuitive design. Currently specialized in the JavaScript/TypeScript ecosystem and robust backend development.
 
-- 🛠️ **Current Focus:** Software Architecture and User Experience (UI/UX).
-- 🚀 **Goal:** Transforming complex ideas into high-performance digital realities.
+- 🛠️ **Current Focus:** React.
 - 🇧🇷 **Location:** Brazil.
 
 ---
