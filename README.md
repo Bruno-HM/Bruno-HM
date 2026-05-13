@@ -15,7 +15,7 @@
 
 A developer passionate about building elegant and efficient solutions. Focused on modern technologies and scalable architectures, I always strive to deliver maximum value through clean code and intuitive design. Currently specialized in the JavaScript/TypeScript ecosystem and robust backend development.
 
-- 🛠️ **Current Focus:** Solvi, ´MooreFinance´.
+- 🛠️ **Current Focus:** Solvi, MooreFinance.
 - 🇧🇷 **Location:** Brazil.
 
 ---
@@ -54,7 +54,7 @@ A developer passionate about building elegant and efficient solutions. Focused o
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **MooreFinance** | Financial management system focused on security and data versioning. | `Completed` |
+| **MooreFinance** | Financial management system focused on security and data versioning. | `In Production` |
 | **Solvi** | A solution for the self-employed workers | `In Production` |
 | **JusControl** | Legal process and financial management platform. | `Evolving` |
 | **TotalDoce** | Institutional website for an inverted sugar company. | `Completed` |
