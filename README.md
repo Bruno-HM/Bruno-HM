@@ -15,7 +15,7 @@
 
 A developer passionate about building elegant and efficient solutions. Focused on modern technologies and scalable architectures, I always strive to deliver maximum value through clean code and intuitive design. Currently specialized in the JavaScript/TypeScript ecosystem and robust backend development.
 
-- 🛠️ **Current Focus:** Solvi, ´MooreFinance.
+- 🛠️ **Current Focus:** Solvi, ´MooreFinance´.
 - 🇧🇷 **Location:** Brazil.
 
 ---
